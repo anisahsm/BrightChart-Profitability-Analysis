@@ -55,7 +55,7 @@ Increase focus on strong-performing channels such as TikTok Ads and optimize or 
 Reduce spend in low-ROAS, high-spend campaigns and periods, while protecting high-performing investments to improve overall marketing efficiency.
 
 ## Tools  
-Excel (Power Query, DAX, Pivot Table, Pivot Chart)
+Excel (Pivot Table, Pivot Chart, Power Query, Power Pivot, DAX)
 
 ## Author  
 Anisah Septiani M.  
