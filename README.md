@@ -59,7 +59,7 @@ Excel (Pivot Table, Pivot Chart, Power Query, Power Pivot, DAX)
 
 ## Author  
 Anisah Septiani M.  
-LinkedIn: https://www.linkedin.com/in/anisahseptianim/  
+LinkedIn: https://www.linkedin.com/in/anisahseptiani/  
 GitHub: https://github.com/anisahsm  
 Email: anisahseptianim@gmail.com
 
