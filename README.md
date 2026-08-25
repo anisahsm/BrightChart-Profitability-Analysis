@@ -12,11 +12,12 @@ The dataset consisted of three tables: information about order-level transaction
 
 ## B.	Key Insights  
 ### 1.	Profitability by Product Category  
-<img width="808" height="472" alt="1" src="https://github.com/user-attachments/assets/b14e4052-8cc6-44ef-8d12-44307f551665" />  
+<img width="956" height="565" alt="image" src="https://github.com/user-attachments/assets/5b988730-2beb-450b-a742-975d5d8e367d" />
+
 
 BrightCart generated $236,318 in net revenue, with an overall average net margin of 23.8%. Electronics delivered the strongest performance with a 31.1% net margin. Books (11.9%), Beauty (17.4%), Clothing (20.0%), and Sports (23.5%) performed weakly and had below average margins.  
 
-The analysis shows that product cost and shipping cost are the primary drivers of margin performance. Electronics has a relatively lower cost ratio, allowing the category to retain more profits. On the other hand, Books and Beauty have higher product and shipping costs, which lessen profitability. Additionally, categories with higher discount and refund ratios need further attention, as these factors reduce net revenue and negatively impact overall profitability.
+The analysis shows that product cost and shipping cost are the primary drivers of margin performance. Electronics has a relatively lower cost ratio, allowing the category to retain more profits. On the other hand, Books and Beauty have higher product and shipping costs, which lessen profitability. Additionally, categories with higher discount need further attention, as these factors reduce net revenue and negatively impact overall profitability.
 
 ### 2.	Profitability by sales channels  
 <img width="809" height="472" alt="2" src="https://github.com/user-attachments/assets/3f6fa645-d14c-4295-8c90-977076f0df17" />  
@@ -53,6 +54,10 @@ Prioritize improvements in Social Commerce, especially for Food & Beverages, Clo
 Increase focus on strong-performing channels such as TikTok Ads and optimize or reduce spending in underperforming channels.  
 5.	Optimize budget allocation based on performance  
 Reduce spend in low-ROAS, high-spend campaigns and periods, while protecting high-performing investments to improve overall marketing efficiency.
+
+## Dashboard
+Interactive dashboard is available in excel file
+https://github.com/user-attachments/assets/17a5bbf2-0642-481e-80f6-4c7e6571c10a
 
 ## Tools  
 Excel (Pivot Table, Pivot Chart, Power Query, Power Pivot, DAX)
