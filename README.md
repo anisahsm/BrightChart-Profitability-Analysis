@@ -55,6 +55,10 @@ Increase focus on strong-performing channels such as TikTok Ads and optimize or 
 5.	Optimize budget allocation based on performance  
 Reduce spend in low-ROAS, high-spend campaigns and periods, while protecting high-performing investments to improve overall marketing efficiency.
 
+## Dashboard
+Interactive dashboard is available in excel file
+https://github.com/user-attachments/assets/17a5bbf2-0642-481e-80f6-4c7e6571c10a
+
 ## Tools  
 Excel (Pivot Table, Pivot Chart, Power Query, Power Pivot, DAX)
 
