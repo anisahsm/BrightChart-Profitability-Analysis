@@ -56,8 +56,12 @@ Increase focus on strong-performing channels such as TikTok Ads and optimize or 
 Reduce spend in low-ROAS, high-spend campaigns and periods, while protecting high-performing investments to improve overall marketing efficiency.
 
 ## Dashboard
-Interactive dashboard is available in excel file
-https://github.com/user-attachments/assets/17a5bbf2-0642-481e-80f6-4c7e6571c10a
+Interactive dashboard is available in excel file.
+
+<img width="1193" height="876" alt="image" src="https://github.com/user-attachments/assets/a9238d3e-24ac-4dd5-a04d-cee6d26f84cd" />
+<img width="1205" height="872" alt="image" src="https://github.com/user-attachments/assets/95edc882-0d67-46bf-803c-eb5c5b946371" />
+
+
 
 ## Tools  
 Excel (Pivot Table, Pivot Chart, Power Query, Power Pivot, DAX)
