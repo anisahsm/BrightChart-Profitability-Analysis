@@ -1,5 +1,5 @@
 # BrightChart Profitability Analysis
-BrightCart is an online retailer that sells products across 8 categories through its website, mobile app, third-party marketplaces, and social commerce. The company did $1M+ in gross revenue over the past two years, but net margins have been shrinking.
+BrightChart is an online retailer that sells products across 8 categories through its website, mobile app, third-party marketplaces, and social commerce. The company did $1M+ in gross revenue over the past two years, but net margins have been shrinking.
 The CEO wants to know:
 1.	The average profit margin by product category
 2.	The profitability across sales channels 
@@ -15,7 +15,7 @@ The dataset consisted of three tables: information about order-level transaction
 <img width="956" height="565" alt="image" src="https://github.com/user-attachments/assets/5b988730-2beb-450b-a742-975d5d8e367d" />
 
 
-BrightCart generated $236,318 in net revenue, with an overall average net margin of 23.8%. Electronics delivered the strongest performance with a 31.1% net margin. Books (11.9%), Beauty (17.4%), Clothing (20.0%), and Sports (23.5%) performed weakly and had below average margins.  
+BrightChart generated $236,318 in net revenue, with an overall average net margin of 23.8%. Electronics delivered the strongest performance with a 31.1% net margin. Books (11.9%), Beauty (17.4%), Clothing (20.0%), and Sports (23.5%) performed weakly and had below average margins.  
 
 The analysis shows that product cost and shipping cost are the primary drivers of margin performance. Electronics has a relatively lower cost ratio, allowing the category to retain more profits. On the other hand, Books and Beauty have higher product and shipping costs, which lessen profitability. Additionally, categories with higher discount need further attention, as these factors reduce net revenue and negatively impact overall profitability.
 
